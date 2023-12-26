@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dodge the Creeps with C#
 
 This is a simple game where your character must move
@@ -10,8 +9,6 @@ tutorial in the documentation, but ported to C#. For more details,
 consider following the tutorial in the documentation.
 
 Language: [C#](https://docs.godotengine.org/en/latest/tutorials/scripting/c_sharp/index.html)
-
-Renderer: GLES 3 (particles are not available in GLES 2)
 
 Note: There is a GDScript version available [here](https://github.com/godotengine/godot-demo-projects/tree/master/2d/dodge_the_creeps).
 
@@ -35,4 +32,3 @@ Font is "Xolonium". Copyright &copy; 2011-2016 Severin Meyer <sev.ch@web.de>, wi
 =======
 # DodgeTheCreeps
 Godot - Dodge The Creeps C#
->>>>>>> c43c18aaf45d9556c6d3e17617507ac45b544a74
