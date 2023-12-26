@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dodge the Creeps with C#
 
 This is a simple game where your character must move
@@ -31,3 +32,7 @@ Check out this demo on the asset library: https://godotengine.org/asset-library/
 Images are from "Abstract Platformer". Created in 2016 by kenney.nl, [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Source: https://www.kenney.nl/assets/abstract-platformer
 
 Font is "Xolonium". Copyright &copy; 2011-2016 Severin Meyer <sev.ch@web.de>, with Reserved Font Name Xolonium, SIL open font license version 1.1. Details are in `fonts/LICENSE.txt`.
+=======
+# DodgeTheCreeps
+Godot - Dodge The Creeps C#
+>>>>>>> c43c18aaf45d9556c6d3e17617507ac45b544a74
